@@ -78,11 +78,11 @@
         {
           "name": "exposure-fabric-1.6.0-fabric.jar",
           "url": "exposure-fabric-1.6.0-fabric.jar",
-          "size": 1031835,
-          "sha512": "5528e1f6a2ee00e83b113e8d7b5c8ab7f77c926e8e05a09384f6c28a91fbc966aa09c3527ba117518dbe84533f356b106e45df53c008943ce2ad1dccf9ad6389",
-          "sha256": "36d5f00c5044a6e57abacc12cbe149c3b7778200192c82908e568b1176a80436",
-          "sha1": "2035f31710327cf7087e362b92002ca22a387662",
-          "md5": "7d7ad22e21eaaf749659bea35f490dfe"
+          "size": 1032393,
+          "sha512": "108a227239304b8ef5f115ba1fe509d5f1a7ffdacd035fc13d629e43b2eadcde4542ac38b05951e1a8d9eef71f81ea1f333820d5a2e0e222bc2c545f56aab420",
+          "sha256": "c21b11e54996933f9390c58bcf388b13aa0954a4af6b5e6c86eab296a91f447a",
+          "sha1": "d3a0943a7cfbb93054d47d03b61314ab042d5e1f",
+          "md5": "8f66106c880b3a2b4d9c30a33e1e4623"
         }
       ]
     },
@@ -156,11 +156,11 @@
         {
           "name": "exposure-fabric-1.6.0-fabric.jar",
           "url": "exposure-fabric-1.6.0-fabric.jar",
-          "size": 1031835,
-          "sha512": "5528e1f6a2ee00e83b113e8d7b5c8ab7f77c926e8e05a09384f6c28a91fbc966aa09c3527ba117518dbe84533f356b106e45df53c008943ce2ad1dccf9ad6389",
-          "sha256": "36d5f00c5044a6e57abacc12cbe149c3b7778200192c82908e568b1176a80436",
-          "sha1": "2035f31710327cf7087e362b92002ca22a387662",
-          "md5": "7d7ad22e21eaaf749659bea35f490dfe"
+          "size": 1032393,
+          "sha512": "108a227239304b8ef5f115ba1fe509d5f1a7ffdacd035fc13d629e43b2eadcde4542ac38b05951e1a8d9eef71f81ea1f333820d5a2e0e222bc2c545f56aab420",
+          "sha256": "c21b11e54996933f9390c58bcf388b13aa0954a4af6b5e6c86eab296a91f447a",
+          "sha1": "d3a0943a7cfbb93054d47d03b61314ab042d5e1f",
+          "md5": "8f66106c880b3a2b4d9c30a33e1e4623"
         }
       ]
     },
@@ -176,11 +176,11 @@
         {
           "name": "exposure-fabric-1.6.0-sources.jar",
           "url": "exposure-fabric-1.6.0-sources.jar",
-          "size": 724037,
-          "sha512": "9cb4b98bf2730d7459086ed38fc8d76774980ddbf55c82079a63e04bb9a9ef23e1ed420b74b5eb109a102a15a8cdfd6bb2e8a9dba35d5bcddd3d198e6c7f1199",
-          "sha256": "8157c1b170a9f0a55351138b154de7fd024c43e2c2c0e184fd9aa9694e1b89f9",
-          "sha1": "e7703f6d242a4bd49bd4324246bf53e06cfce6d1",
-          "md5": "adcd4948b9c208995f62e8e66f719859"
+          "size": 724595,
+          "sha512": "4479413f7a835022c41441bad2de25e55602b74ca99a0d9d8cec80896dce6221c03d22ffaa7fc7f3ba4d4c79122f71fee4c3702e5c591693a80e191f51caff98",
+          "sha256": "7cb2741625ff42da7e117f0da315d6c1e38a98d8a59868cabfc21fb772b81f03",
+          "sha1": "2f32798767c87f7b1c044ed2232a0fb7523c8d5b",
+          "md5": "75a5109179580dc7ff9a19265bc2133a"
         }
       ]
     }

@@ -57,11 +57,11 @@
         {
           "name": "exposure-forge-1.6.0-forge.jar",
           "url": "exposure-forge-1.6.0-forge.jar",
-          "size": 1041836,
-          "sha512": "5cffeb80bd49a3b69b55c143458d64c08b4d11f3f93e8a273adf513f54af46387a80aaec14c0e5f74c4e1e9d4a0dc04b28e786f4f63503570c95cb172af640fb",
-          "sha256": "51ff73cfd4570b29c23e0d305d0246c37d85546bde37c5ef10bd6000090617fe",
-          "sha1": "0e7849635dbb7cb716aff7035a90502f3fb06e55",
-          "md5": "8506c7da355ef42b22adc4b7bd64bb67"
+          "size": 1042373,
+          "sha512": "478597400b5bd140a626e63e4f229a999db1cdc870e79a507fc86808f83e21f8908fc4f7f9e8eab6d613e889970a6308c6fe5fff037d3c6315f82d74966eb9eb",
+          "sha256": "13b514c4233e151d2fe73f3bd287ec66c96120bbface13879d77cb71666b1f47",
+          "sha1": "2361c03c2a4614e2c57dc9329fac81dbf5e9a0c0",
+          "md5": "8afda3d79124320cf03b49f2761c90ba"
         }
       ]
     },
@@ -106,11 +106,11 @@
         {
           "name": "exposure-forge-1.6.0-forge.jar",
           "url": "exposure-forge-1.6.0-forge.jar",
-          "size": 1041836,
-          "sha512": "5cffeb80bd49a3b69b55c143458d64c08b4d11f3f93e8a273adf513f54af46387a80aaec14c0e5f74c4e1e9d4a0dc04b28e786f4f63503570c95cb172af640fb",
-          "sha256": "51ff73cfd4570b29c23e0d305d0246c37d85546bde37c5ef10bd6000090617fe",
-          "sha1": "0e7849635dbb7cb716aff7035a90502f3fb06e55",
-          "md5": "8506c7da355ef42b22adc4b7bd64bb67"
+          "size": 1042373,
+          "sha512": "478597400b5bd140a626e63e4f229a999db1cdc870e79a507fc86808f83e21f8908fc4f7f9e8eab6d613e889970a6308c6fe5fff037d3c6315f82d74966eb9eb",
+          "sha256": "13b514c4233e151d2fe73f3bd287ec66c96120bbface13879d77cb71666b1f47",
+          "sha1": "2361c03c2a4614e2c57dc9329fac81dbf5e9a0c0",
+          "md5": "8afda3d79124320cf03b49f2761c90ba"
         }
       ]
     },
@@ -126,11 +126,11 @@
         {
           "name": "exposure-forge-1.6.0-sources.jar",
           "url": "exposure-forge-1.6.0-sources.jar",
-          "size": 728434,
-          "sha512": "c82aa3240d55ad6a4839a87297d21ec6b4065a253c531e6cab599764b5fa5cc44dacd3efdab7a49cac466ea907c0ba0c0c6aceb4090ff8d8f8914646d746d04d",
-          "sha256": "4045d592f6d9985902822c77308f02935172a7e7b31802ef5e55e78b229926cf",
-          "sha1": "30a443c2dc0e97954363ede4cb68f72029f9476f",
-          "md5": "3b7de97a56fbe09581ec58797a7f6b20"
+          "size": 729003,
+          "sha512": "fbf29c5c5409905e94810a28aaff325177903fa1d267fcaf7e9618f69972cb9b0bdc2d83df748984295ea560f3b47f8e33b5b726300fe08445cdfcaa13f76d07",
+          "sha256": "0961ff59336ebd417cf7e985b10973d515d3f528b61365d8f717a242f43f4d71",
+          "sha1": "eb15a9942080a02c0fb1a7b0060f50a50c69b479",
+          "md5": "bd43d13603c5b1c4afe76951eb00f3c7"
         }
       ]
     }
