@@ -1,0 +1,174 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.github.mortuusars",
+    "module": "exposure-fabric",
+    "version": "1.7.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.90.4+1.20.1"
+          }
+        },
+        {
+          "group": "fuzs.forgeconfigapiport",
+          "module": "forgeconfigapiport-fabric",
+          "version": {
+            "requires": "8.0.0"
+          }
+        },
+        {
+          "group": "mezz.jei",
+          "module": "jei-1.20.1-common-api",
+          "version": {
+            "requires": "15.2.0.27"
+          }
+        },
+        {
+          "group": "curse.maven",
+          "module": "jade-324717",
+          "version": {
+            "requires": "5072729"
+          }
+        },
+        {
+          "group": "dev.latvian.mods",
+          "module": "kubejs-fabric",
+          "version": {
+            "requires": "2001.6.5-build.7"
+          }
+        },
+        {
+          "group": "curse.maven",
+          "module": "jade-324717",
+          "version": {
+            "requires": "5106745"
+          }
+        },
+        {
+          "group": "mezz.jei",
+          "module": "jei-1.20.1-fabric-api",
+          "version": {
+            "requires": "15.2.0.27"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "exposure-fabric-1.7.1-fabric.jar",
+          "url": "exposure-fabric-1.7.1-fabric.jar",
+          "size": 1256974,
+          "sha512": "514d9b2c986d8eda7cdd1596ef9e74e8085a02124a39be9d412c0d06391acd820480d25d01e9c101cd5673e68d1f170f2a575db58490c771251cb5a247feb6b7",
+          "sha256": "85983a29ab81fe339fd0e4c25048f1d235a651b0dc52ed58dd3d7bb7040fb0f3",
+          "sha1": "81b159f9df03bebc59d6681dc668277736527f07",
+          "md5": "83a1248d11ef14f9288fe549e9e8dbdf"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.90.4+1.20.1"
+          }
+        },
+        {
+          "group": "fuzs.forgeconfigapiport",
+          "module": "forgeconfigapiport-fabric",
+          "version": {
+            "requires": "8.0.0"
+          }
+        },
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.14.23"
+          }
+        },
+        {
+          "group": "curse.maven",
+          "module": "jade-324717",
+          "version": {
+            "requires": "5106745"
+          },
+          "excludes": [
+            {
+              "group": "*",
+              "module": "*"
+            }
+          ]
+        },
+        {
+          "group": "mezz.jei",
+          "module": "jei-1.20.1-fabric",
+          "version": {
+            "requires": "15.2.0.27"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "exposure-fabric-1.7.1-fabric.jar",
+          "url": "exposure-fabric-1.7.1-fabric.jar",
+          "size": 1256974,
+          "sha512": "514d9b2c986d8eda7cdd1596ef9e74e8085a02124a39be9d412c0d06391acd820480d25d01e9c101cd5673e68d1f170f2a575db58490c771251cb5a247feb6b7",
+          "sha256": "85983a29ab81fe339fd0e4c25048f1d235a651b0dc52ed58dd3d7bb7040fb0f3",
+          "sha1": "81b159f9df03bebc59d6681dc668277736527f07",
+          "md5": "83a1248d11ef14f9288fe549e9e8dbdf"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "exposure-fabric-1.7.1-sources.jar",
+          "url": "exposure-fabric-1.7.1-sources.jar",
+          "size": 910593,
+          "sha512": "2f3f87a7837995b72d1aaf23397cf23601b9967386b87ec80b17c6b709fe740569e469d4259464900d989d50d52d03bc1ee2cb4fad4767bd1c0924b6b97614ef",
+          "sha256": "a89fcd31630805338cb14bb5bc999577661b73e42fc702744d9e2448fb56205a",
+          "sha1": "ab74c65a09f98429028b04ed6505e178f428672c",
+          "md5": "eba36933dfb9ebda9e549b33894a7466"
+        }
+      ]
+    }
+  ]
+}
